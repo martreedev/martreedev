@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariusz-c-trzeciak/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martreedev@gmail.com)
   
-  ## [Check Out my Resume Here!]([https://docs.google.com/](https://docs.google.com/document/d/1-FiAF5g-vVBnDZki7T74DtJvZ-joJlM_v4hnTheVNKE/edit?usp=sharing))
+  ## [Check Out my Resume Here!](https://docs.google.com/document/d/1-FiAF5g-vVBnDZki7T74DtJvZ-joJlM_v4hnTheVNKE/edit?usp=sharing)
 
 ![banner image](https://raw.githubusercontent.com/martreedev/martreedev/main/github_banner_optimized.png)
 
