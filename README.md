@@ -30,15 +30,15 @@ Experience leading development, scaling systems, and shipping products used by t
 
 ## Experience
 
-### Ploutos — Fintech Platform
+### Ploutos — Fintech Mobile App
 - Built real-time messaging and financial sentiment system
 - Implemented AI-powered assistant for in-app intelligence
 - Integrated Stripe subscriptions and affiliate systems
 - Stack: React Native, TypeScript, Deno, PostgreSQL
 
-### Celeb-Voice — SaaS Platform
+### Celeb-Voice — AI SaaS Platform
 - Scaled to 7,000+ users and $70K+ monthly revenue
-- Built full-stack architecture with Node.js and PostgreSQL
+- Built full-stack architecture with Node.js and PostgreSQL → Later refactored to Next.js
 - Integrated AI APIs (OpenAI, ElevenLabs)
 - Led development and product delivery
 
